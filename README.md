@@ -1,101 +1,131 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfUkdAZzcSOqoTRqTNm-F2WBwqcFb-iM_u-Q&s)
-
-<h1 align="center">⚡ Hi 👋, I'm <span style="color:#0e75b6;">AnilKumarBanoth</span> ⚡</h1>
-
-<h3 align="center">
-🚀 Software Engineer | 💻 Full Stack Developer | 🎨 UI/UX Designer <br>
-🇮🇳 From India | ⚔️ Code like an Anime Protagonist
-</h3>
-
-<img align="right" alt="Coding Anime" width="400" 
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s"/>
-
----
-
-### 🧠 About Me
-- 🔥 Passionate about **Clean Code & Modern UI**
-- 🌱 Currently learning **⚛️ React.js & 🐘 PHP**
-- 🧩 Love solving problems on **LeetCode**
-- 🎯 Goal: Become a **Full-Stack Sensei (師匠)**
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anilkumarbanoth&label=👀+Profile+Views&color=0e75b6&style=flat" />
+<!-- ===================== 🐉 ANIME GIF HEADER ===================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/@anilnayak525136" target="blank">
-    <img src="https://img.shields.io/twitter/follow/@anilnayak525136?logo=twitter&style=for-the-badge"/>
+<h1 align="center">⚡ Hi, I'm AnilKumarBanoth ⚡</h1>
+
+<h3 align="center">
+💻 Full Stack Developer | 🎨 UI/UX Designer | ⚔️ Code Ninja <br>
+🌌 Cyberpunk Mode ON | 🇮🇳 India
+</h3>
+
+---
+
+## 🧠 About Me
+⚡ Passionate **Software & Full Stack Developer** with strong skills in  
+Frontend, Backend, Databases, and UI/UX Design.  
+I love building modern web applications, solving problems, and  
+continuously learning new technologies.
+
+🔥 *Code • Learn • Evolve*
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anilkumarbanoth&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack (My Arsenal ⚔️)
+
+### ⚔️ Programming Languages
+- **C++, Python, C**
+- **SQL (MySQL, MS SQL Server)**
+
+### 🌐 Web Technologies
+- **HTML5, CSS3, JavaScript (Intermediate)**
+- **React.js**
+- **Express.js**
+- **Bootstrap**
+- **REST APIs**
+
+### 🛢️ Databases
+- **MongoDB**
+- **MS SQL Server**
+
+### 🎨 Design & CMS
+- **Figma**
+- **WordPress**
+
+---
+
+## 🎯 Skill Progress Bars
+| Skill | Level |
+|------|-------|
+| HTML5 | ██████████ 95% |
+| CSS3 | █████████░ 90% |
+| JavaScript | ████████░░ 80% |
+| React.js | ████████░░ 80% |
+| Express.js | ███████░░░ 75% |
+| MongoDB | ███████░░░ 75% |
+| SQL (MySQL / MS SQL) | ████████░░ 85% |
+| C / C++ | ████████░░ 85% |
+| Python | ███████░░░ 75% |
+| Figma | █████████░ 88% |
+| WordPress | ████████░░ 80% |
+
+---
+
+## 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,express,bootstrap,mongodb,mysql,figma,wordpress&theme=dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anilkumarbanoth&theme=matrix&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 📊 GitHub Stats (Cyberpunk Dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anilkumarbanoth&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilkumarbanoth&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumarbanoth&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤖 LeetCode Stats (Auto Updating)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anil502108?theme=dark&font=Fira%20Code&ext=contest"/>
+</p>
+
+---
+
+## 🎮 Hobbies & Interests
+- 🎮 Playing Games  
+- 📚 Reading Books & UI/UX Designs  
+- 🧠 Learning New Techniques  
+- 🎨 Exploring Creative Design  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/@anilnayak525136">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
+  </a>
+  <a href="https://linkedin.com/in/anil nayak">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+  </a>
+  <a href="https://instagram.com/anilnayak2191">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark"/>
   </a>
 </p>
 
 ---
 
-### 📫 Contact Me ⚔️
-📧 **anilbanoth..nayak@gmail.com**  
-📧 **an5689247@gmail.com**
-
----
-
-### 🌐 Connect With Me (Power Up 🔋)
-<p align="left">
-<a href="https://twitter.com/@anilnayak525136" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/anil nayak" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://fb.com/anil nayak" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/anilnayak2191" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/anil502108" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Languages & Tools (My Arsenal ⚔️)
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-</p>
-
----
-
-### 📊 GitHub Power Level 📈
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilkumarbanoth&show_icons=true&layout=compact"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilkumarbanoth&show_icons=true"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilkumarbanoth"/>
-</p>
-
----
-
-<h3 align="center">⚡ "Code Hard. Debug Harder. Go Beyond Plus Ultra!" 🔥</h3>
+<h2 align="center">🔥 “Go Beyond. Plus Ultra.” 🔥</h2>
