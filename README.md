@@ -22,6 +22,13 @@ continuously learning new technologies.
 
 ---
 
+<!-- 🌌 CYBERPUNK BACKGROUND STYLE IMAGE (MID PAGE) -->
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" />
+</p>
+
+---
+
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anilkumarbanoth&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
@@ -78,7 +85,7 @@ continuously learning new technologies.
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anilkumarbanoth&theme=matrix&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anilkumarbanoth&theme=matrix&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -100,7 +107,7 @@ continuously learning new technologies.
 
 ## 🤖 LeetCode Stats (Auto Updating)
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/anil502108?theme=dark&font=Fira%20Code&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/AnilKumar502?theme=dark&font=Fira%20Code&ext=contest&border=0"/>
 </p>
 
 ---
