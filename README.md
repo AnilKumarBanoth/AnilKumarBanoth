@@ -7,7 +7,7 @@
 
 <h3 align="center">
 💻 Full Stack Developer | 🎨 UI/UX Designer | ⚔️ Code Ninja <br>
-🌌 Cyberpunk Mode ON | 🇮🇳 India
+| 🇮🇳 India
 </h3>
 
 ---
@@ -21,11 +21,6 @@ continuously learning new technologies.
 🔥 *Code • Learn • Evolve*
 
 ---
-
-<!-- 🌌 CYBERPUNK BACKGROUND STYLE IMAGE (MID PAGE) -->
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" />
-</p>
 
 ---
 
@@ -89,19 +84,6 @@ continuously learning new technologies.
 </p>
 
 ---
-
-## 📊 GitHub Stats (Cyberpunk Dark)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anilkumarbanoth&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilkumarbanoth&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumarbanoth&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
