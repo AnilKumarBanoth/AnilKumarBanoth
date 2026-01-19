@@ -1,26 +1,24 @@
 <!-- ===================== 🐉 ANIME GIF HEADER ===================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&width=650&lines=Hi%2C+I'm+Banoth+Anil+Kumar;Full+Stack+Developer;UI+UX+Designer;Aspiring+Software+Engineer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<h1 align="center">⚡ Hi, I'm AnilKumarBanoth ⚡</h1>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
+
+<h1 align="center">⚡ Hi, I'm Banoth Anil Kumar ⚡</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🎨 UI/UX Designer | ⚔️ Code Ninja <br>
-| 🇮🇳 India
+💻 Full Stack Developer | 🎨 UI/UX Designer <br>
+🇮🇳 India
 </h3>
 
 ---
 
 ## 🧠 About Me
-⚡ Passionate **Software & Full Stack Developer** with strong skills in  
-Frontend, Backend, Databases, and UI/UX Design.  
-I love building modern web applications, solving problems, and  
+Passionate **Full Stack Developer** with hands-on experience in building  
+modern web applications using the **MERN stack**.  
+I enjoy solving problems, designing clean user experiences, and  
 continuously learning new technologies.
 
-🔥 *Code • Learn • Evolve*
-
----
+🔥 *Code • Learn • Improve*
 
 ---
 
@@ -31,22 +29,26 @@ continuously learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack (My Arsenal ⚔️)
+## 🛠️ Tech Stack
 
 ### ⚔️ Programming Languages
-- **C++, Python, C**
+- **C, C++, Python**
 - **SQL (MySQL, MS SQL Server)**
 
 ### 🌐 Web Technologies
-- **HTML5, CSS3, JavaScript (Intermediate)**
+- **HTML5, CSS3, JavaScript**
 - **React.js**
-- **Express.js**
-- **Bootstrap**
+- **Node.js, Express.js**
 - **REST APIs**
+- **Bootstrap**
 
 ### 🛢️ Databases
 - **MongoDB**
-- **MS SQL Server**
+- **MySQL / MS SQL Server**
+
+### 📊 Data & Analytics
+- **Python, Pandas, NumPy**
+- **Excel (Intermediate)**
 
 ### 🎨 Design & CMS
 - **Figma**
@@ -54,26 +56,9 @@ continuously learning new technologies.
 
 ---
 
-## 🎯 Skill Progress Bars
-| Skill | Level |
-|------|-------|
-| HTML5 | ██████████ 95% |
-| CSS3 | █████████░ 90% |
-| JavaScript | ████████░░ 80% |
-| React.js | ████████░░ 80% |
-| Express.js | ███████░░░ 75% |
-| MongoDB | ███████░░░ 75% |
-| SQL (MySQL / MS SQL) | ████████░░ 85% |
-| C / C++ | ████████░░ 85% |
-| Python | ███████░░░ 75% |
-| Figma | █████████░ 88% |
-| WordPress | ████████░░ 80% |
-
----
-
-## 🛠️ Tools & Technologies
+## 🛠️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,express,bootstrap,mongodb,mysql,figma,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,nodejs,express,bootstrap,mongodb,mysql,figma,wordpress&theme=dark" />
 </p>
 
 ---
@@ -85,29 +70,32 @@ continuously learning new technologies.
 
 ---
 
----
-
-## 🤖 LeetCode Stats (Auto Updating)
+## 🤖 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AnilKumar502?theme=dark&font=Fira%20Code&ext=contest&border=0"/>
+  <img src="https://leetcard.jacoblin.cool/AnilKumar502?theme=dark&font=Fira%20Code&border=0"/>
 </p>
 
 ---
 
-## 🎮 Hobbies & Interests
-- 🎮 Playing Games  
-- 📚 Reading Books & UI/UX Designs  
-- 🧠 Learning New Techniques  
-- 🎨 Exploring Creative Design  
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anilkumarbanoth&show_icons=true&theme=radical" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumarbanoth&layout=compact&theme=radical" height="165">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![GitHub Snake Animation](https://raw.githubusercontent.com/anilkumarbanoth/anilkumarbanoth/output/snake.svg)
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/@anilnayak525136">
+  <a href="https://twitter.com/anilnayak525136">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
   </a>
-  <a href="https://linkedin.com/in/anil nayak">
+  <a href="https://www.linkedin.com/in/anilnayak">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
   </a>
   <a href="https://instagram.com/anilnayak2191">
